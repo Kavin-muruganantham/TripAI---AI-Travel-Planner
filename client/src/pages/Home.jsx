@@ -47,7 +47,8 @@ export default function Home() {
   useEffect(() => {
     const loadDestinations = async () => {
       try {
-        const response = await axios.get('http://localhost:5000/api/destinations/trending');
+        const apiBase = import.meta.env.VITE_API_BASE || 'http://localhost:5000/api';
+        const response = await axios.get(`${apiBase}/destinations/trending`);
         setTrendingDestinations(response.data.destinations || []);
       } catch (error) {
         setDestinationError(error.response?.data?.message || error.message || 'Failed to load live destinations');

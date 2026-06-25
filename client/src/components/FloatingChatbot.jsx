@@ -23,7 +23,8 @@ export default function FloatingChatbot() {
       // Proxy request to server to avoid exposing API keys from client
       const requestId = `c-${Date.now()}`;
       console.log(`[${requestId}] Sending chat message to server`);
-      const resp = await axios.post('http://localhost:5000/api/chat/message', { message: userMessage });
+      const apiBase = import.meta.env.VITE_API_BASE || 'http://localhost:5000/api';
+      const resp = await axios.post(`${apiBase}/chat/message`, { message: userMessage });
       if (resp?.data?.success) {
         setMessages((prev) => [...prev, { text: resp.data.reply, sender: 'bot' }]);
       } else {

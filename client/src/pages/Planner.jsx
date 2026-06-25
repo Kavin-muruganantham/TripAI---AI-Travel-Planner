@@ -74,7 +74,7 @@ export default function Planner() {
     }
   }, [formData.startDate, formData.endDate]);
 
-  const API_BASE = 'http://localhost:5000/api';
+  const API_BASE = import.meta.env.VITE_API_BASE || 'http://localhost:5000/api';
 
   const handleInputChange = (e) => {
     const { name, value } = e.target;
@@ -137,7 +137,7 @@ export default function Planner() {
     try {
       const requestId = `g-${Date.now()}`;
       console.log(`[${requestId}] Sending trip generation request`);
-      const response = await axios.post('http://localhost:5000/api/trip/generate', {
+      const response = await axios.post(`${API_BASE}/trip/generate`, {
         destination: formData.destination,
         budget: formData.budget,
         days: formData.days,
@@ -154,7 +154,7 @@ export default function Planner() {
       setTripData(response.data.trip);
       setAdvisoryData(response.data.advisory || null);
 
-      const weatherResponse = await axios.get(`http://localhost:5000/api/weather/${encodeURIComponent(formData.destination)}`);
+      const weatherResponse = await axios.get(`${API_BASE}/weather/${encodeURIComponent(formData.destination)}`);
       console.log('Weather response data:', weatherResponse.data);
       setWeatherData(weatherResponse.data.weather);
     } catch (error) {

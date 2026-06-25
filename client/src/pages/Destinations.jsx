@@ -28,7 +28,8 @@ export default function Destinations() {
     setError('');
 
     try {
-      const response = await axios.get('http://localhost:5000/api/destinations');
+      const apiBase = import.meta.env.VITE_API_BASE || 'http://localhost:5000/api';
+      const response = await axios.get(`${apiBase}/destinations`);
       setDestinations(response.data.destinations || []);
     } catch (err) {
       setError(err.response?.data?.message || 'Network error while loading destinations. Please retry.');
