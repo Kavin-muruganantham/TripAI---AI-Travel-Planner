@@ -1,0 +1,1615 @@
+[
+  {
+    "id": "04c6efdd-e425-406d-8b76-1708253bab01",
+    "userId": "10674735-956c-4fa3-9393-036180e5ac9a",
+    "startDate": "2026-05-07T00:00:00.000Z",
+    "endDate": "2026-05-08T00:00:00.000Z",
+    "destination": "Goa",
+    "budget": 30000,
+    "days": 1,
+    "travelType": "Solo",
+    "mood": "Adventure",
+    "season": "shoulder",
+    "budgetBreakdown": {
+      "hotels": "₹7000",
+      "food": "₹4500",
+      "transport": "₹5200",
+      "activities": "₹12000"
+    },
+    "itinerary": [
+      {
+        "day": 1,
+        "date": "2026-05-07",
+        "theme": "Mangrove Kayaking & Off-Road Adrenaline",
+        "morning": "Begin your day with an invigorating 'Sunrise Mangrove Kayaking' experience on the Nerul River. Paddle through serene backwaters, exploring dense mangrove ecosystems, spotting diverse birdlife like kingfishers and cormorants, and understanding the unique estuarine environment. This offers a tranquil yet physically engaging adventure away from the typical beach crowds.",
+        "afternoon": "Shift gears to an adrenaline-pumping 'Quad Biking Jungle Trail' experience at a dedicated adventure park like Offroad Adventure Sports Goa (near Arpora). Navigate challenging mud tracks, steep inclines, and dense jungle paths on a powerful ATV, providing an exhilarating off-road adventure deep into Goa's hinterlands.",
+        "evening": "Conclude your adventurous day with a 'Sunset Hike to Chapora Fort' in Vagator. Trek up to this historic fort for breathtaking panoramic views of the Vagator and Morjim beaches meeting the Arabian Sea, especially stunning during sunset. Afterward, enjoy a unique clifftop dinner experience.",
+        "places": [
+          "Nerul River",
+          "Offroad Adventure Sports Goa",
+          "Chapora Fort",
+          "Olive Bar & Kitchen"
+        ],
+        "meals": {
+          "breakfast": "Hotel breakfast at Fairfield by Marriott (included)",
+          "lunch": "Goa Thali at Anand Bar & Restaurant (Anjuna) – a local favourite for authentic Goan cuisine after your quad biking.",
+          "dinner": "Dinner at Olive Bar & Kitchen (Vagator) – a chic clifftop restaurant known for its Mediterranean fare and spectacular sunset views."
+        },
+        "transport": "Rent a scooter for the day (approximately ₹500-₹700) for flexibility between activities. Utilize local taxis/ride-hailing apps for longer distances or if you prefer not to ride a scooter at night (e.g., to/from Olive Bar & Kitchen).",
+        "estimatedDailyCost": "₹21700"
+      }
+    ],
+    "hotels": [
+      {
+        "name": "Fairfield by Marriott Goa Anjuna",
+        "area": "Anjuna, North Goa",
+        "pricePerNight": "₹7000",
+        "totalCost": "₹7000 for 1 nights",
+        "rating": 4.2,
+        "category": "Mid-range",
+        "amenities": [
+          "WiFi",
+          "AC",
+          "Outdoor Pool",
+          "Breakfast Included",
+          "Fitness Center"
+        ],
+        "whyRecommended": "Located conveniently in North Goa, this hotel offers modern amenities, comfort, and is well-regarded for its service. Its proximity to various adventure activity starting points and vibrant dining options makes it ideal for a solo adventure traveler. The included breakfast saves time and money for early starts."
+      }
+    ],
+    "weather": {
+      "city": "Goa",
+      "country": "IN",
+      "temp": 31,
+      "feelsLike": 30,
+      "humidity": 34,
+      "description": "broken clouds",
+      "icon": "https://openweathermap.org/img/wn/04d@2x.png",
+      "windSpeed": 2.91,
+      "visibility": 10,
+      "source": "OpenWeatherMap API - Live Data"
+    },
+    "attractions": [
+      "Nerul River Mangrove Kayaking",
+      "Offroad Adventure Sports Goa (Quad Biking)",
+      "Chapora Fort",
+      "Anand Bar & Restaurant",
+      "Olive Bar & Kitchen"
+    ],
+    "localFood": [
+      "Goan Fish Thali",
+      "Pork Vindaloo",
+      "Prawn Curry with Sannas"
+    ],
+    "packingTips": [
+      "Pack light, breathable clothing made of cotton or linen to combat the May heat and humidity.",
+      "Include swimwear, sunscreen, a wide-brimmed hat, and sunglasses for sun protection during outdoor activities.",
+      "Carry insect repellent for evenings, especially near mangroves or natural areas.",
+      "A reusable water bottle is essential to stay hydrated throughout the day.",
+      "Good walking shoes or sandals for trekking and comfortable footwear for water activities."
+    ],
+    "importantNotes": [
+      "May marks the pre-monsoon season in Goa, meaning it will be hot and humid. Hydration is key, and planning activities for early morning or late afternoon can help avoid the midday sun.",
+      "Some beach shacks and seasonal businesses might start closing down towards the end of May. It's advisable to call ahead for specific establishments.",
+      "Scooter rental is common, but ensure you have a valid international driving permit and always wear a helmet for safety.",
+      "Pre-booking adventure activities like kayaking and quad biking is recommended, especially for specific time slots, to ensure availability."
+    ],
+    "estimatedCost": "₹28700",
+    "createdAt": "2026-05-07T04:38:52.663Z"
+  },
+  {
+    "id": "19ef0c8c-81ff-4d42-b092-ef4380fafe04",
+    "userId": "b0e1e149-9599-43a4-b91f-fe8a6e52eec4",
+    "startDate": "2026-05-07T00:00:00.000Z",
+    "endDate": "2026-05-08T00:00:00.000Z",
+    "destination": "Goa",
+    "budget": 30000,
+    "days": 1,
+    "travelType": "Solo",
+    "mood": "Relaxing",
+    "season": "shoulder",
+    "budgetBreakdown": {
+      "hotels": "₹14000",
+      "food": "₹4000",
+      "transport": "₹6000",
+      "activities": "₹3000"
+    },
+    "itinerary": [
+      {
+        "day": 1,
+        "date": "2026-05-07",
+        "theme": "Island Serenity & Latin Quarter Charm",
+        "morning": "Begin with a tranquil ferry ride across the Mandovi River to Chorao Island. Explore the Dr. Salim Ali Bird Sanctuary, a peaceful haven for birdwatching amidst lush mangrove forests. This offers a unique, serene nature experience, far from the typical tourist crowds, perfect for a relaxing solo start.",
+        "afternoon": "Return to Panjim and immerse yourself in the vibrant, quiet lanes of Fontainhas, Panjim's Latin Quarter. Enjoy a leisurely Goan-Portuguese fusion lunch at The Black Sheep Bistro, then explore the unique artistry at Gitanjali Gallery or Velha Goa Galeria, soaking in the architectural beauty and cultural ambiance at a gentle pace.",
+        "evening": "Conclude your day with a sophisticated sunset experience at Olive Bar & Kitchen in Vagator. Perched on a cliff overlooking the Arabian Sea, enjoy exquisite Mediterranean cuisine and signature cocktails while watching the sun dip below the horizon, offering a luxurious and tranquil end to your day.",
+        "places": [
+          "Dr. Salim Ali Bird Sanctuary, Chorao Island",
+          "Fontainhas, Panjim",
+          "Gitanjali Gallery, Panjim",
+          "The Black Sheep Bistro, Panjim",
+          "Olive Bar & Kitchen, Vagator"
+        ],
+        "meals": {
+          "breakfast": "La Brise, Panjim (for fresh juices and a light, healthy breakfast after returning from Chorao)",
+          "lunch": "The Black Sheep Bistro, Panjim (for modern Goan fusion in a chic, relaxed setting)",
+          "dinner": "Olive Bar & Kitchen, Vagator (for exquisite Mediterranean cuisine with stunning sunset views)"
+        },
+        "transport": "Private AC Cab with a dedicated driver for the day (for utmost comfort, especially given the May heat, and seamless travel between locations).",
+        "estimatedDailyCost": "₹27000"
+      }
+    ],
+    "hotels": [
+      {
+        "name": "Vivanta by Taj, Panjim",
+        "area": "Panjim",
+        "pricePerNight": "₹14000",
+        "totalCost": "₹14000 for 1 night",
+        "rating": 4.5,
+        "category": "Luxury",
+        "amenities": [
+          "WiFi",
+          "AC",
+          "Swimming Pool",
+          "Spa Facilities",
+          "Breakfast Included",
+          "Fitness Center"
+        ],
+        "whyRecommended": "Centrally located, Vivanta by Taj, Panjim offers upscale comfort, excellent service, and a serene ambiance. Its proximity to Fontainhas and easy access to Chorao Island makes it ideal for this itinerary. The luxury amenities and tranquil atmosphere perfectly suit a relaxing solo trip during the off-peak season."
+      }
+    ],
+    "weather": {
+      "city": "Goa",
+      "country": "IN",
+      "temp": 31,
+      "feelsLike": 30,
+      "humidity": 34,
+      "description": "broken clouds",
+      "icon": "https://openweathermap.org/img/wn/04d@2x.png",
+      "windSpeed": 2.91,
+      "visibility": 10,
+      "source": "OpenWeatherMap API - Live Data"
+    },
+    "attractions": [
+      "Dr. Salim Ali Bird Sanctuary",
+      "Fontainhas (Latin Quarter)",
+      "Gitanjali Gallery",
+      "Our Lady of the Immaculate Conception Church (Panjim)",
+      "Mandovi River"
+    ],
+    "localFood": [
+      "Goan Fish Thali",
+      "Prawn Balchão",
+      "Cafreal Chicken"
+    ],
+    "packingTips": [
+      "Light, breathable cotton clothing to combat heat and humidity",
+      "High-SPF sunscreen, sunglasses, and a wide-brimmed hat for sun protection",
+      "Insect repellent, especially for nature-based activities like birdwatching",
+      "Comfortable walking sandals or shoes for exploring, and swimwear for the hotel pool."
+    ],
+    "importantNotes": [
+      "May in Goa is very hot and humid, with pre-monsoon showers possible. Stay well-hydrated and plan indoor or shaded activities during the intense afternoon heat.",
+      "Fewer crowds mean a more peaceful and authentic experience, but some smaller shacks or seasonal businesses might be closed.",
+      "Pre-booking a private AC cab is highly recommended for comfort and efficiency, given the weather conditions."
+    ],
+    "estimatedCost": "₹27000",
+    "createdAt": "2026-05-07T04:40:34.791Z"
+  },
+  {
+    "id": "2be1254a-10ca-4fd9-a7e7-81da557f05e8",
+    "userId": "b0e1e149-9599-43a4-b91f-fe8a6e52eec4",
+    "startDate": "2026-05-07T00:00:00.000Z",
+    "endDate": "2026-05-08T00:00:00.000Z",
+    "destination": "Jaipur",
+    "budget": 30000,
+    "days": 1,
+    "travelType": "Solo",
+    "mood": "Adventure",
+    "season": "shoulder",
+    "budgetBreakdown": {
+      "hotels": "₹16000",
+      "food": "₹3000",
+      "transport": "₹3000",
+      "activities": "₹4000",
+      "miscellaneous_buffer": "₹4000"
+    },
+    "itinerary": [
+      {
+        "day": 1,
+        "date": "2026-05-07",
+        "theme": "Sunrise Treks & Fort Explorations",
+        "morning": "Kick off the day before sunrise with an adventurous hike to Galta Ji (Monkey Temple). Explore its ancient stepwells and vibrant temple complex, then climb the less-frequented surrounding hills to a unique viewpoint for a breathtaking sunrise panorama over Jaipur. This activity offers significant physical exertion, cultural immersion, and stunning, solitary views away from the main tourist crowds.",
+        "afternoon": "Delve deep into the vibrant chaos of Jaipur's Walled City on a 'Hidden Gem Food & Heritage Walk'. Explore the narrow, less-trodden lanes of Johari Bazaar and Kishanpole Bazaar, discovering ancient Havelis and specific artisan workshops (such as a traditional gemstone polisher or a lac bangle maker). Engage in a culinary adventure by sampling authentic street food from renowned, traditional vendors, focusing on unique local delicacies. This immersive experience is an adventure for the senses and offers true cultural insight.",
+        "evening": "Ascend to Jaigarh Fort, known for its formidable military architecture and strategic vantage points. Explore its vast complex, including the impressive Jaivana cannon, and seek out less-visited ramparts and hidden passages for a unique perspective of Amber Fort and Maota Lake as the sun sets. Conclude your adventurous day with an exclusive and thrilling dinner at Padao Restaurant on Nahargarh Fort, offering unparalleled panoramic views of the illuminated Jaipur city twinkling below.",
+        "places": [
+          "Galta Ji (Monkey Temple)",
+          "Walled City (specific lanes in Johari Bazaar and Kishanpole Bazaar)",
+          "Jaigarh Fort",
+          "Padao Restaurant (Nahargarh Fort)"
+        ],
+        "meals": {
+          "breakfast": "Hotel Samode Haveli (complimentary, providing a comfortable and early start before the heat)",
+          "lunch": "Purohit Thaliwala (for an authentic and hearty Rajasthani Thali experience in the Walled City)",
+          "dinner": "Padao Restaurant, Nahargarh Fort (for an adventurous dining experience with spectacular city views)"
+        },
+        "transport": "Predominantly ride-hailing services (Ola/Uber) for efficient transfers between major locations, complemented by extensive walking for immersive exploration within Galta Ji, the Walled City, and Jaigarh Fort.",
+        "estimatedDailyCost": "₹10000"
+      }
+    ],
+    "hotels": [
+      {
+        "name": "Samode Haveli",
+        "area": "Gangapole, Near Jorawar Singh Gate",
+        "pricePerNight": "₹16000 (estimated for May 2026, considering the shoulder season pricing)",
+        "totalCost": "₹16000 for 1 night",
+        "rating": 4.5,
+        "category": "Luxury Heritage Boutique",
+        "amenities": [
+          "WiFi",
+          "Air Conditioning",
+          "Outdoor Swimming Pool",
+          "Complimentary Breakfast",
+          "Traditional Architecture"
+        ],
+        "whyRecommended": "This exquisite heritage Haveli offers a unique, luxurious, and authentically Rajasthani experience. It's perfect for a solo adventurer seeking comfort and traditional ambiance as a serene retreat after a day of intense exploration. Its central yet tranquil location provides a perfect base for exploring the city's adventures."
+      }
+    ],
+    "weather": {
+      "city": "Jaipur",
+      "country": "IN",
+      "temp": 31,
+      "feelsLike": 30,
+      "humidity": 37,
+      "description": "haze",
+      "icon": "https://openweathermap.org/img/wn/50d@2x.png",
+      "windSpeed": 4.12,
+      "visibility": 3,
+      "source": "OpenWeatherMap API - Live Data"
+    },
+    "attractions": [
+      "Galta Ji (Monkey Temple)",
+      "Jaigarh Fort",
+      "Nahargarh Fort (specifically for Padao Restaurant and panoramic city views)",
+      "Walled City (exploring less-trodden lanes, local bazaars, and hidden Havelis)",
+      "Maota Lake (scenic views from Jaigarh Fort)"
+    ],
+    "localFood": [
+      "Pyaaz Kachori (a savory, deep-fried pastry filled with spiced onions, best with chutney)",
+      "Dal Baati Churma (a quintessential Rajasthani meal of baked wheat balls, lentil curry, and sweet crumbled wheat)",
+      "Ghevar (a disc-shaped sweet cake, especially popular during festivals, a must-try dessert)"
+    ],
+    "packingTips": [
+      "Pack lightweight, breathable cotton or linen clothing to combat the intense heat. Long sleeves can protect from sun.",
+      "Essential sun protection includes high-SPF sunscreen, a wide-brimmed hat, and quality sunglasses.",
+      "Wear comfortable, sturdy walking shoes or hiking sandals suitable for extensive walking and climbs over uneven terrain.",
+      "Carry a reusable water bottle and stay hydrated constantly by refilling it frequently."
+    ],
+    "importantNotes": [
+      "May is characterized by extremely hot weather in Jaipur; plan outdoor activities for early mornings and late evenings to avoid peak heat. Hydration is paramount.",
+      "Bargaining is a common practice in local markets; engage respectfully but firmly to get fair prices.",
+      "While Jaipur is generally safe, solo travelers, especially females, should exercise caution in crowded areas and after dark. Utilize reputable ride-hailing services.",
+      "Be mindful of local customs and traditions; always ask for permission before taking photographs of people or inside religious sites."
+    ],
+    "estimatedCost": "₹30000",
+    "createdAt": "2026-05-07T04:41:16.991Z"
+  },
+  {
+    "id": "bf731920-9909-4be8-bcfa-9afa430dd748",
+    "userId": "b0e1e149-9599-43a4-b91f-fe8a6e52eec4",
+    "startDate": "2026-05-07T00:00:00.000Z",
+    "endDate": "2026-05-08T00:00:00.000Z",
+    "destination": "Jaipur",
+    "budget": 500000,
+    "days": 1,
+    "travelType": "Solo",
+    "mood": "Adventure",
+    "season": "off-peak",
+    "budgetBreakdown": {
+      "hotels": "₹110000",
+      "food": "₹28500",
+      "transport": "₹18000",
+      "activities": "₹23000"
+    },
+    "itinerary": [
+      {
+        "day": 1,
+        "date": "2026-05-07",
+        "theme": "Aerial Vistas & Wilderness Encounters",
+        "morning": "Begin your adventurous day with an exhilarating Hot Air Balloon Safari with Sky Waltz over the majestic Amer Fort and the picturesque Aravalli hills (05:00 AM - 09:00 AM). Witnessing the sunrise painting the ancient landscape from above is a truly unforgettable and adventurous start. After landing, make a brief stop at Panna Meena ka Kund, a unique 16th-century stepwell near Amer Fort, to admire its symmetric architecture and enjoy a moment of tranquility before the city awakens fully.",
+        "afternoon": "After a relaxing break and a gourmet lunch at your hotel, embark on a thrilling Jhalana Leopard Safari (03:00 PM - 06:00 PM). Jhalana is India's first leopard reserve within a city, offering an incredible opportunity for wildlife spotting. Navigating through the dry deciduous forest in a private jeep, seeking out leopards, hyenas, and other wildlife, is a perfect blend of adventure and nature immersion.",
+        "evening": "Conclude your adventurous day with a lavish Royal Dinner Experience at Suvarna Mahal, the exquisite fine-dining restaurant at Rambagh Palace (07:30 PM onwards). Indulge in authentic Rajasthani and Indian royal cuisine amidst opulent settings, once the dining hall of the Maharaja. This regal experience offers a serene and luxurious end to a day packed with outdoor adventure.",
+        "places": [
+          "Amer Fort (viewed from hot air balloon)",
+          "Panna Meena ka Kund",
+          "The Leela Palace Jaipur (for breakfast)",
+          "Jhalana Leopard Reserve",
+          "Rambagh Palace, a Taj Hotel (for stay and dinner)"
+        ],
+        "meals": {
+          "breakfast": "The Verandah, The Leela Palace Jaipur (a luxurious spread offering international and local delicacies)",
+          "lunch": "Steam, Rambagh Palace (light, contemporary Indian and Mediterranean cuisine in a luxurious setting)",
+          "dinner": "Suvarna Mahal, Rambagh Palace (opulent Indian fine-dining with traditional Rajasthani dishes)"
+        },
+        "transport": "Private Luxury Sedan (e.g., Mercedes-Benz E-Class or Audi A6) with a professional chauffeur for the entire day, ensuring comfort and efficiency between activities, especially during the hot weather.",
+        "estimatedDailyCost": "₹179500"
+      }
+    ],
+    "hotels": [
+      {
+        "name": "Rambagh Palace, a Taj Hotel",
+        "area": "Bhawani Singh Road, Jaipur",
+        "pricePerNight": "₹110000 (for a Grand Royal Suite, estimated for May 2026)",
+        "totalCost": "₹110000 for 1 nights",
+        "rating": 4.8,
+        "category": "Ultra Luxury",
+        "amenities": [
+          "WiFi",
+          "Air Conditioning",
+          "Multiple Fine-Dining Restaurants",
+          "Spa and Wellness Centre",
+          "Indoor and Outdoor Swimming Pools",
+          "Butler Service",
+          "Royal Gardens",
+          "Heritage Walks"
+        ],
+        "whyRecommended": "Known as the 'Jewel of Jaipur,' Rambagh Palace offers an unparalleled royal experience. Its opulent suites, impeccable service, and historical grandeur provide a luxurious sanctuary from the summer heat, perfectly aligning with the high budget and adventure mood by offering a truly regal retreat after thrilling excursions."
+      }
+    ],
+    "weather": {
+      "city": "Jaipur",
+      "country": "IN",
+      "temp": 31,
+      "feelsLike": 30,
+      "humidity": 37,
+      "description": "haze",
+      "icon": "https://openweathermap.org/img/wn/50d@2x.png",
+      "windSpeed": 4.12,
+      "visibility": 3,
+      "source": "OpenWeatherMap API - Live Data"
+    },
+    "attractions": [
+      "Amer Fort",
+      "Jhalana Leopard Reserve",
+      "Panna Meena ka Kund",
+      "Rambagh Palace",
+      "The Leela Palace Jaipur (for dining experience)"
+    ],
+    "localFood": [
+      "Dal Baati Churma (a quintessential Rajasthani dish)",
+      "Laal Maas (spicy mutton curry, a must-try for non-vegetarians)",
+      "Ghewar (a traditional disc-shaped sweet cake)"
+    ],
+    "packingTips": [
+      "Pack light, breathable cotton or linen clothing to stay comfortable in the summer heat.",
+      "Carry a wide-brimmed hat, sunglasses, and high-SPF sunscreen to protect against the intense sun.",
+      "Bring comfortable walking shoes for early morning adventures and a good camera with a zoom lens for the leopard safari.",
+      "Stay hydrated with plenty of water and electrolytes throughout the day."
+    ],
+    "importantNotes": [
+      "May is very hot in Jaipur, so prioritize early morning and late evening activities. Midday can be spent relaxing at your luxurious hotel or enjoying indoor facilities.",
+      "Book your Hot Air Balloon Safari and Jhalana Leopard Safari well in advance, especially since you desire private or exclusive experiences.",
+      "Hydration is paramount. Always carry water bottles and make use of the cool, air-conditioned environments provided by your luxury transport and hotel."
+    ],
+    "estimatedCost": "₹179500",
+    "createdAt": "2026-05-07T05:03:39.011Z"
+  },
+  {
+    "id": "cd9f2e3a-4421-4693-b270-c185196e0829",
+    "userId": "7451d206-4508-475c-88a6-d623a3bbdbf0",
+    "startDate": "2026-06-02T00:00:00.000Z",
+    "endDate": "2026-06-03T00:00:00.000Z",
+    "destination": "Goa",
+    "budget": 30000,
+    "days": 1,
+    "travelType": "Solo",
+    "mood": "Adventure",
+    "season": "off-peak",
+    "budgetBreakdown": {
+      "hotels": "₹7000",
+      "food": "₹4000",
+      "transport": "₹5000",
+      "activities": "₹10000"
+    },
+    "itinerary": [
+      {
+        "day": 1,
+        "date": "2026-06-02",
+        "theme": "Monsoon Wilderness & Hidden Heritage",
+        "morning": "Kickstart your adventure with an exhilarating Dudhsagar Waterfall expedition. Begin with an early morning (around 7:00 AM) drive to Collem. Here, you'll board a robust 4x4 jeep that navigates through the dense Bhagwan Mahavir Wildlife Sanctuary, crossing several small streams and rugged muddy terrain – a thrilling ride in itself! Arrive at the base of the magnificent Dudhsagar Waterfall, which is in full glory during the monsoon. Enjoy the breathtaking views, feel the spray, and if permitted and safe, take a refreshing dip in the natural pool. This is a quintessential Goan adventure.",
+        "afternoon": "Transition to another side of Goa's wild heart at Netravali Wildlife Sanctuary. After Dudhsagar, drive south-east to Netravali (approx. 1.5-2 hours). Your adventure here will involve a guided trek through the dense, rain-kissed forest to discover hidden gems like Savari Waterfall, which requires a moderate trek to reach its pristine cascades. Conclude this segment with a visit to the unique Bubbling Lake (Budbudyanchi Tali), a natural phenomenon where gas bubbles continuously rise to the surface, offering a mystical experience deep within the sanctuary.",
+        "evening": "Wind down with a cultural and culinary adventure in the historic village of Chandor. Drive to Chandor (approx. 1 hour from Netravali), known for its grand Portuguese-era mansions. Take a guided evening stroll, perhaps catching the exterior grandeur of the Braganza House or other ancient homes. For dinner, experience authentic Goan cuisine at a local, highly-regarded traditional eatery or a home-dining experience if arranged, savoring flavors that tell tales of Goa's rich heritage, a perfect blend of adventure and cultural immersion.",
+        "places": [
+          "Collem",
+          "Bhagwan Mahavir Wildlife Sanctuary",
+          "Dudhsagar Waterfall",
+          "Netravali Wildlife Sanctuary",
+          "Savari Waterfall",
+          "Bubbling Lake (Budbudyanchi Tali)",
+          "Chandor Village",
+          "Braganza House"
+        ],
+        "meals": {
+          "breakfast": "Hotel breakfast at Sterling Goa Varca (included)",
+          "lunch": "Packed lunch or simple local eatery near Sanguem/Collem post-Dudhsagar adventure",
+          "dinner": "Authentic Goan dinner at a local traditional restaurant in Chandor, e.g., Cota Cozinha (if operational) or similar local establishment"
+        },
+        "transport": "A hired private car with an experienced local driver for the entire day is highly recommended. This ensures comfort, safety, and efficient travel across the significant distances and varying road conditions during the monsoon.",
+        "estimatedDailyCost": "₹22000"
+      }
+    ],
+    "hotels": [
+      {
+        "name": "Sterling Goa Varca, A Sarovar Portico Hotel",
+        "area": "Varca, South Goa",
+        "pricePerNight": "₹7000",
+        "totalCost": "₹7000 for 1 night",
+        "rating": 4.2,
+        "category": "Mid-range/Upper Mid-range",
+        "amenities": [
+          "WiFi",
+          "AC",
+          "Swimming Pool",
+          "Multi-cuisine Restaurant",
+          "Bar",
+          "Breakfast Included"
+        ],
+        "whyRecommended": "This hotel offers a comfortable and well-equipped base in South Goa, strategically located to access the adventure spots planned. In the off-peak monsoon season, it provides excellent value for a solo traveler seeking a relaxing retreat after an adventurous day."
+      }
+    ],
+    "weather": {
+      "city": "Goa",
+      "country": "IN",
+      "temp": 31,
+      "feelsLike": 35,
+      "humidity": 58,
+      "description": "overcast clouds",
+      "icon": "https://openweathermap.org/img/wn/04d@2x.png",
+      "windSpeed": 5.67,
+      "visibility": 10,
+      "source": "OpenWeatherMap API - Live Data"
+    },
+    "attractions": [
+      "Dudhsagar Waterfall",
+      "Bhagwan Mahavir Wildlife Sanctuary",
+      "Netravali Wildlife Sanctuary",
+      "Bubbling Lake (Budbudyanchi Tali)",
+      "Savari Waterfall",
+      "Chandor Village & Heritage Mansions",
+      "Sahakari Spice Farm",
+      "Palolem Beach (for serene sunset viewing if weather permits)",
+      "Se Cathedral (Old Goa, for history enthusiasts)",
+      "Fort Aguada (iconic fort with panoramic views)"
+    ],
+    "localFood": [
+      "Goan Fish Thali (Xitt Kodi)",
+      "Pork Vindaloo",
+      "Prawn Balchão",
+      "Bebinca (layered dessert)",
+      "Feni (cashew or coconut liquor)"
+    ],
+    "packingTips": [
+      "Pack lightweight, quick-drying clothing (synthetics are best) and sturdy, waterproof trekking shoes or sandals with good grip for jungle treks and river crossings.",
+      "Essential rain gear includes a waterproof jacket or poncho, a waterproof cover for your backpack, and dry bags for electronics like phone and camera. Don't forget insect repellent for the forest areas."
+    ],
+    "importantNotes": [
+      "June marks the peak of the monsoon season in Goa. While it transforms the landscape into a vibrant green paradise and rejuvenates waterfalls, expect intermittent heavy rainfall. Always check local weather forecasts and activity advisories. Some water sports may be suspended, but jungle and waterfall expeditions are usually at their best. Roads can be wet and slippery, so hiring a car with an experienced local driver is crucial for safety and convenience."
+    ],
+    "estimatedCost": "₹30000",
+    "createdAt": "2026-06-02T11:06:31.649Z"
+  },
+  {
+    "id": "c8f93614-88c9-4ef3-ba38-3e8f87f7414a",
+    "userId": "7451d206-4508-475c-88a6-d623a3bbdbf0",
+    "startDate": "2026-06-02T00:00:00.000Z",
+    "endDate": "2026-06-03T00:00:00.000Z",
+    "destination": "Goa",
+    "budget": 165000,
+    "days": 1,
+    "travelType": "Solo",
+    "mood": "Adventure",
+    "season": "off-peak",
+    "budgetBreakdown": {
+      "hotels": "₹50000",
+      "food": "₹15000",
+      "transport": "₹15000",
+      "activities": "₹85000"
+    },
+    "itinerary": [
+      {
+        "day": 1,
+        "date": "2026-06-02",
+        "theme": "Monsoon River Rapids & Jungle Treks",
+        "morning": "Begin your adventure early with a thrilling White Water Rafting experience on the Mhadei River. A private luxury transfer will take you to Valpoi, the starting point. You'll embark on a bespoke rafting expedition with a dedicated professional guide and safety crew, navigating through Class II-IV rapids (water levels permitting) amidst the incredibly lush, rain-fed Western Ghats scenery. This high-adrenaline activity offers stunning views of the vibrant monsoon landscape and an unforgettable rush.",
+        "afternoon": "Post-rafting, continue your journey into the heart of Goa's wilderness with a private guided trek to the Tambdi Surla Mahadev Temple and its gushing waterfall. This involves a scenic drive through the Mollem National Park followed by a moderately challenging trek through dense, monsoon-fed jungle. Explore Goa's oldest temple, a marvel of Kadamba architecture, and then cool off at the pristine waterfall. The path will be vibrant with flora and fauna, offering a true immersion into nature.",
+        "evening": "After an action-packed day, return to your luxury hotel for a well-deserved pampering session. Indulge in a deep-tissue or Ayurvedic massage at the renowned Shamana Spa at Grand Hyatt Goa, specifically designed to rejuvenate tired muscles. Later, embark on a culinary adventure with a private transfer to 'Goa's Ark' in Assagao, known for its exquisite farm-to-table dining experience focusing on modern Goan and European flavors in a charming, artistic, and off-the-beaten-path setting.",
+        "places": [
+          "Mhadei River (Valpoi)",
+          "Tambdi Surla Mahadev Temple & Waterfall (Mollem National Park)",
+          "Shamana Spa (Grand Hyatt Goa)",
+          "Goa's Ark (Assagao)"
+        ],
+        "meals": {
+          "breakfast": "Sumptuous buffet at Grand Hyatt Goa (included with stay)",
+          "lunch": "Gourmet packed lunch from Grand Hyatt Goa, enjoyed amidst nature post-rafting/pre-trek",
+          "dinner": "Fine dining tasting menu at Goa's Ark, Assagao"
+        },
+        "transport": "Luxury Private SUV with dedicated driver for the entire day (12-14 hours service)",
+        "estimatedDailyCost": "₹165000"
+      }
+    ],
+    "hotels": [
+      {
+        "name": "Grand Hyatt Goa",
+        "area": "Bambolim, North Goa (Central)",
+        "pricePerNight": "₹50000",
+        "totalCost": "₹50000 for 1 nights",
+        "rating": 4.5,
+        "category": "Luxury",
+        "amenities": [
+          "WiFi",
+          "Air Conditioning",
+          "Breakfast Included",
+          "Outdoor Pool",
+          "Spa (Shamana Spa)",
+          "Fitness Center",
+          "Multiple Restaurants"
+        ],
+        "whyRecommended": "This luxury resort offers expansive grounds, a central location making it convenient for both inland adventure and coastal exploration, and world-class amenities including the renowned Shamana Spa perfect for post-adventure relaxation. Its high-end service and tranquil ambiance perfectly complement a solo adventure trip with a generous budget."
+      }
+    ],
+    "weather": {
+      "city": "Goa",
+      "country": "IN",
+      "temp": 31,
+      "feelsLike": 35,
+      "humidity": 58,
+      "description": "overcast clouds",
+      "icon": "https://openweathermap.org/img/wn/04d@2x.png",
+      "windSpeed": 5.67,
+      "visibility": 10,
+      "source": "OpenWeatherMap API - Live Data"
+    },
+    "attractions": [
+      "Mhadei River",
+      "Tambdi Surla Mahadev Temple & Waterfall",
+      "Mollem National Park",
+      "Dudhsagar Waterfalls (accessible by jeep safari during monsoon)",
+      "Cabo de Rama Fort"
+    ],
+    "localFood": [
+      "Goan Fish Curry Rice",
+      "Pork Vindaloo",
+      "Bebinca"
+    ],
+    "packingTips": [
+      "Pack waterproof jackets, quick-dry clothing, and swimwear suitable for river activities. Sturdy, waterproof trekking shoes with good grip are essential for monsoon treks.",
+      "Carry waterproof bags or covers for electronics, and insect repellent. A portable power bank is also advisable for long days out."
+    ],
+    "importantNotes": [
+      "Early June marks the onset of the monsoon in Goa. While beautiful, heavy rains can occasionally affect outdoor activity timings; flexibility is key.",
+      "Coastal water sports and beach swimming may be unsafe due to rough seas during the monsoon. The itinerary focuses on inland and river-based adventures which thrive in this season."
+    ],
+    "estimatedCost": "₹165000",
+    "createdAt": "2026-06-02T11:24:12.275Z"
+  },
+  {
+    "id": "218900d2-81bf-4106-90d9-261841f4a07e",
+    "userId": "7451d206-4508-475c-88a6-d623a3bbdbf0",
+    "startDate": "2026-06-02T00:00:00.000Z",
+    "endDate": "2026-06-03T00:00:00.000Z",
+    "destination": "Goa",
+    "budget": 90000,
+    "days": 2,
+    "travelType": "Couple",
+    "mood": "Romantic",
+    "season": "off-peak",
+    "budgetBreakdown": {
+      "hotels": "₹20000",
+      "food": "₹30000",
+      "transport": "₹15000",
+      "activities": "₹25000"
+    },
+    "itinerary": [
+      {
+        "day": 1,
+        "date": "2026-06-02",
+        "theme": "South Goa Serenity & Luxurious Indulgence",
+        "morning": "Upon arrival in South Goa, check into The Leela Goa, your luxurious retreat. Spend a relaxed morning exploring the resort's sprawling lagoons, manicured gardens, and private beach. Indulge in a couple's Ayurvedic spa treatment at 'The Spa' within the resort, designed for ultimate relaxation and rejuvenation amidst tranquil surroundings.",
+        "afternoon": "Embark on a private, tranquil boat cruise on the scenic River Sal, starting from a serene point near Assolna. Witness the lush mangrove forests, observe local village life along the riverbanks, and enjoy the unique perspective of Goa's verdant backwaters, perfect for intimate moments away from the crowds.",
+        "evening": "Experience a bespoke romantic candle-light dinner at The Leela Goa's 'Riverside Restaurant'. Enjoy gourmet cuisine with personalized service in an intimate ambiance, perhaps by the tranquil lagoon or a specially arranged gazebo, making for an unforgettable culinary experience.",
+        "places": [
+          "The Leela Goa, Cavelossim",
+          "River Sal, Assolna",
+          "The Spa at The Leela Goa",
+          "Riverside Restaurant, The Leela Goa"
+        ],
+        "meals": {
+          "breakfast": "Breakfast at The Leela Goa (included)",
+          "lunch": "The Restaurant, The Leela Goa (multi-cuisine, serene poolside dining)",
+          "dinner": "Riverside Restaurant, The Leela Goa (specialty Indian & international cuisine)"
+        },
+        "transport": "Luxury AC Sedan with private chauffeur for airport/station transfers and local sightseeing in South Goa.",
+        "estimatedDailyCost": "₹45000"
+      },
+      {
+        "day": 2,
+        "date": "2026-06-03",
+        "theme": "Heritage Charm & Nature's Embrace",
+        "morning": "After a leisurely breakfast and check-out, journey to Panjim for a romantic heritage walk through Fontainhas, Goa's vibrant Latin Quarter. Wander hand-in-hand through its narrow, colorful streets, admiring the Portuguese architecture and charming art galleries. Conclude with a visit to the iconic Our Lady of the Immaculate Conception Church, offering panoramic views of the city.",
+        "afternoon": "Head to the lush hinterlands of Goa for an immersive experience at Sahakari Spice Farm in Ponda. Enjoy a guided tour learning about various indigenous spices and their medicinal properties, followed by a traditional Goan Saraswat Thali lunch, offering a unique taste of authentic Goan flavors amidst nature's bounty.",
+        "evening": "Conclude your romantic trip with an enchanting sunset cruise on the Mandovi River from Panjim. Enjoy live music, cultural performances, and breathtaking views as the sun dips below the horizon, creating a magical backdrop. Follow this with a farewell dinner at 'Gunpowder' in Assagao, renowned for its delectable South Indian cuisine with a twist and a romantic garden setting.",
+        "places": [
+          "Fontainhas, Panjim",
+          "Our Lady of the Immaculate Conception Church, Panjim",
+          "Sahakari Spice Farm, Ponda",
+          "Mandovi River, Panjim",
+          "Gunpowder, Assagao"
+        ],
+        "meals": {
+          "breakfast": "Breakfast at The Leela Goa (included before check-out)",
+          "lunch": "Sahakari Spice Farm Restaurant (traditional Goan thali)",
+          "dinner": "Gunpowder, Assagao (celebrated South Indian cuisine with a twist, romantic garden setting)"
+        },
+        "transport": "Luxury AC Sedan with private chauffeur for inter-district travel and all transfers.",
+        "estimatedDailyCost": "₹35000"
+      }
+    ],
+    "hotels": [
+      {
+        "name": "The Leela Goa",
+        "area": "Cavelossim, South Goa",
+        "pricePerNight": "₹20000",
+        "totalCost": "₹20000",
+        "rating": 4.6,
+        "category": "Luxury",
+        "amenities": [
+          "Private Beach Access",
+          "Multiple Swimming Pools",
+          "12-hole Golf Course",
+          "Award-winning Spa & Wellness Centre",
+          "Multiple Restaurants & Bars",
+          "Complimentary WiFi",
+          "Air Conditioning",
+          "Butler Service (select rooms)"
+        ],
+        "whyRecommended": "Offers unparalleled luxury, privacy, and a serene ambiance perfect for a romantic couple's escape. Its sprawling property, direct private beach access, and world-class amenities ensure an indulgent and memorable stay in the tranquil setting of South Goa."
+      }
+    ],
+    "weather": {
+      "city": "Goa",
+      "country": "IN",
+      "temp": 31,
+      "feelsLike": 35,
+      "humidity": 58,
+      "description": "overcast clouds",
+      "icon": "https://openweathermap.org/img/wn/04d@2x.png",
+      "windSpeed": 5.67,
+      "visibility": 10,
+      "source": "OpenWeatherMap API - Live Data"
+    },
+    "attractions": [
+      "The Leela Goa (Resort experience & Private Beach)",
+      "River Sal (Backwater cruise experience)",
+      "Fontainhas, Panjim (Latin Quarter heritage walk)",
+      "Our Lady of the Immaculate Conception Church, Panjim",
+      "Sahakari Spice Farm, Ponda",
+      "Mandovi River (Sunset cruise)"
+    ],
+    "localFood": [
+      "Goan Fish Curry Thali (with Rice & Sol Kadhi)",
+      "Prawn Balchão (spicy prawn pickle)",
+      "Pork Vindaloo (classic Goan pork curry)",
+      "Bebinca (traditional Goan layered cake dessert)"
+    ],
+    "packingTips": [
+      "Lightweight, quick-drying clothing suitable for warm, humid, and potentially rainy weather (e.g., linen, cotton).",
+      "A compact umbrella or a light rain jacket for unexpected monsoon showers.",
+      "Comfortable, waterproof walking shoes or sandals for exploring and navigating potentially wet terrains.",
+      "Swimwear for resort pool relaxation and spa visits.",
+      "Insect repellent, especially for evenings and visits to natural areas like spice farms or river cruises."
+    ],
+    "importantNotes": [
+      "June marks the onset of the monsoon season in Goa. While it brings lush green landscapes and fewer crowds, be prepared for occasional rain showers.",
+      "During this season, some temporary beach shacks might be closed, and water sports activities could be limited or unavailable due to sea conditions.",
+      "The itinerary is designed to offer a blend of indoor/sheltered activities and experiences that are beautiful even in the rain. Embrace the romantic, misty charm of monsoon Goa.",
+      "It's highly advisable to book private transport and restaurant reservations in advance for a seamless and comfortable experience, especially for luxury dining."
+    ],
+    "estimatedCost": "₹90000",
+    "createdAt": "2026-06-02T11:27:08.532Z"
+  },
+  {
+    "id": "57ee9999-3f99-4131-893c-5c62175551bf",
+    "userId": "7451d206-4508-475c-88a6-d623a3bbdbf0",
+    "startDate": "2026-06-02T00:00:00.000Z",
+    "endDate": "2026-06-09T00:00:00.000Z",
+    "destination": "Goa",
+    "budget": 220000,
+    "days": 7,
+    "travelType": "Group",
+    "mood": "Adventure",
+    "season": "shoulder",
+    "budgetBreakdown": {
+      "hotels": "₹87500",
+      "food": "₹50000",
+      "transport": "₹35000",
+      "activities": "₹47500"
+    },
+    "itinerary": [
+      {
+        "day": 1,
+        "date": "2026-06-02",
+        "theme": "Arrival & Central Goa Monsoon Nature Immersion",
+        "morning": "Arrive at Manohar International Airport (MOPA) or Dabolim Airport (GOI). Transfer to your hotel, The Fern Kadamba Hotel and Spa, for check-in and refresh. This offers a serene start, away from the bustling beaches.",
+        "afternoon": "Embark on an exploration of Bondla Wildlife Sanctuary. Enjoy a nature walk through its dense forest trails, spot deer and other local wildlife, and visit the mini-zoo, offering an engaging introduction to Goa's biodiversity in its monsoon glory.",
+        "evening": "Savor an authentic Goan dinner at Copperleaf in Porvorim, known for its refined local cuisine and elegant ambiance. This provides a taste of Goa's culinary heritage in a comfortable setting.",
+        "places": [
+          "Manohar International Airport (MOPA)",
+          "Dabolim Airport (GOI)",
+          "The Fern Kadamba Hotel and Spa",
+          "Bondla Wildlife Sanctuary",
+          "Copperleaf Restaurant"
+        ],
+        "meals": {
+          "breakfast": "Hotel (Included)",
+          "lunch": "Hotel / On the way",
+          "dinner": "Copperleaf, Porvorim"
+        },
+        "transport": "Private SUV rental with driver (self-drive option available for experienced drivers), used for all daily transfers.",
+        "estimatedDailyCost": "₹7000"
+      },
+      {
+        "day": 2,
+        "date": "2026-06-03",
+        "theme": "Western Ghats Trek & Spice Plantation Discovery",
+        "morning": "Undertake a moderate trek to Tambdi Surla Waterfall, nestled deep within the Bhagwan Mahavir Wildlife Sanctuary. This involves navigating lush jungle trails, culminating in a magnificent waterfall view. Explore the ancient 12th-century Tambdi Surla Mahadev Temple, an architectural marvel hidden in the forest, offering a blend of adventure and history.",
+        "afternoon": "Experience a guided tour of Tropical Spice Plantation, learning about various spices, medicinal plants, and traditional farming methods. Enjoy a traditional Goan lunch served on a banana leaf within the plantation, providing a sensory and educational experience.",
+        "evening": "Indulge in a delightful seafood dinner at Fisherman's Wharf in Cavelossim, offering a vibrant riverside dining experience with live music and fresh catches, a perfect reward after a day of adventure.",
+        "places": [
+          "Tambdi Surla Waterfall",
+          "Tambdi Surla Mahadev Temple",
+          "Tropical Spice Plantation",
+          "Fisherman's Wharf, Cavelossim"
+        ],
+        "meals": {
+          "breakfast": "Hotel (Included)",
+          "lunch": "Tropical Spice Plantation (Included in tour)",
+          "dinner": "Fisherman's Wharf, Cavelossim"
+        },
+        "transport": "Private SUV rental.",
+        "estimatedDailyCost": "₹9500"
+      },
+      {
+        "day": 3,
+        "date": "2026-06-04",
+        "theme": "River Kayaking & Historic Fort Exploration",
+        "morning": "Embark on an exhilarating kayaking or Stand-Up Paddleboarding (SUP) session on the tranquil Sal River. Glide through serene backwaters, observe mangrove ecosystems, and discover hidden coves with a local operator like Goa Kayaking, offering a unique perspective of Goa's riverside life.",
+        "afternoon": "Explore the historic ruins of Cabo de Rama Fort in South Goa. Perched on a cliff overlooking the Arabian Sea, this fort offers breathtaking panoramic views and a sense of forgotten history, perfect for adventurous exploration and photography.",
+        "evening": "Enjoy a picturesque dinner at The Lazy Goose on the Nerul River in North Goa. Known for its delicious food and charming waterside setting, it provides a relaxed yet refined dining experience after a day of active exploration.",
+        "places": [
+          "Sal River (Cavelossim)",
+          "Goa Kayaking",
+          "Cabo de Rama Fort",
+          "The Lazy Goose, Nerul"
+        ],
+        "meals": {
+          "breakfast": "Hotel (Included)",
+          "lunch": "Martin's Corner, Betalbatim",
+          "dinner": "The Lazy Goose, Nerul"
+        },
+        "transport": "Private SUV rental.",
+        "estimatedDailyCost": "₹10000"
+      },
+      {
+        "day": 4,
+        "date": "2026-06-05",
+        "theme": "Ancient Caves & Northern Fort Hike",
+        "morning": "Discover the ancient rock-cut Arvalem Caves (Harvalem Caves), a historical and spiritual site. Afterward, visit the majestic Arvalem Waterfall, which is typically in its full glory during the monsoon, offering a refreshing and picturesque natural experience.",
+        "afternoon": "Hike around the expansive Chapora Fort ruins. Instead of just the main viewpoint, explore less-trodden paths to discover hidden nooks and enjoy diverse panoramic views of the Vagator coastline and Chapora River estuary, embracing the adventurous spirit of discovery.",
+        "evening": "Immerse yourselves in local Goan culture with a Feni tasting session at a traditional tavern, understanding the distillation process of this indigenous spirit. Followed by an authentic Goan dinner at Viva Panjim in Fontainhas, renowned for its heritage and local cuisine.",
+        "places": [
+          "Arvalem Caves",
+          "Arvalem Waterfall",
+          "Chapora Fort",
+          "Fontainhas (Latin Quarter)",
+          "Viva Panjim"
+        ],
+        "meals": {
+          "breakfast": "Hotel (Included)",
+          "lunch": "Gunpowder, Assagao",
+          "dinner": "Viva Panjim, Fontainhas (after Feni tasting at a local tavern)"
+        },
+        "transport": "Private SUV rental.",
+        "estimatedDailyCost": "₹8500"
+      },
+      {
+        "day": 5,
+        "date": "2026-06-06",
+        "theme": "Island Cycling & Bird Sanctuary Expedition",
+        "morning": "Embark on an adventure to Divar Island. Take a local ferry from Old Goa and rent bicycles to explore the island's serene, traffic-free roads, picturesque villages, and ancient churches like Our Lady of Compassion Church. This offers a unique, active way to experience rural Goan life.",
+        "afternoon": "Take another short ferry to Chorao Island and visit the Dr. Salim Ali Bird Sanctuary. Explore the mangrove ecosystem by walking its designated trails or opting for a quiet canoe ride (if available and weather permits) to spot diverse birdlife and appreciate the ecological beauty.",
+        "evening": "Return to Panjim for dinner at Mum's Kitchen, a highly acclaimed restaurant celebrating and preserving traditional Goan recipes, ensuring a memorable culinary journey through the region's diverse flavors.",
+        "places": [
+          "Old Goa Ferry Point",
+          "Divar Island",
+          "Our Lady of Compassion Church",
+          "Chorao Island",
+          "Dr. Salim Ali Bird Sanctuary",
+          "Mum's Kitchen, Panjim"
+        ],
+        "meals": {
+          "breakfast": "Hotel (Included)",
+          "lunch": "Local eatery on Divar Island",
+          "dinner": "Mum's Kitchen, Panjim"
+        },
+        "transport": "Private SUV rental (to ferry points), local ferries, rented bicycles.",
+        "estimatedDailyCost": "₹9000"
+      },
+      {
+        "day": 6,
+        "date": "2026-06-07",
+        "theme": "Dudhsagar Waterfall & Jungle Safari Thrills",
+        "morning": "Undertake a full-day adventure to the majestic Dudhsagar Waterfall. The journey itself is an adventure, involving a thrilling jeep safari through the dense Bhagwan Mahavir Wildlife Sanctuary, often crossing small streams, leading to the base of the spectacular four-tiered falls. A short trek completes the journey to witness its grandeur.",
+        "afternoon": "Spend time at Dudhsagar, swimming in the natural pool at the base (if safe and permitted) and soaking in the powerful beauty of the waterfall. Enjoy the raw, untamed nature of the Western Ghats during the monsoon, a true highlight of adventure in Goa.",
+        "evening": "Return to the hotel for a well-deserved rest. Enjoy a relaxed dinner at the hotel's in-house restaurant, allowing for a comfortable and convenient end to an adventurous day, discussing the day's epic experiences.",
+        "places": [
+          "Kulem (for jeep safari start)",
+          "Dudhsagar Waterfall",
+          "Bhagwan Mahavir Wildlife Sanctuary"
+        ],
+        "meals": {
+          "breakfast": "Hotel (Included)",
+          "lunch": "Basic local restaurant/packed lunch near Dudhsagar",
+          "dinner": "The Fern Kadamba Restaurant"
+        },
+        "transport": "Private SUV rental (to Kulem), Jeep Safari (part of tour).",
+        "estimatedDailyCost": "₹15000"
+      },
+      {
+        "day": 7,
+        "date": "2026-06-08",
+        "theme": "Off-road Adrenaline & Departure",
+        "morning": "Get your adrenaline pumping with a Quad Biking (ATV) experience at Adventureland Goa near Anjuna. Navigate challenging off-road tracks, mud trails, and varied terrain, offering a thrilling and dirty adventure to conclude your trip on a high note.",
+        "afternoon": "Enjoy a final Goan meal at Artjuna Cafe in Anjuna, a vibrant and earthy cafe known for its healthy, organic food and unique ambiance. Indulge in some last-minute shopping for local crafts and unique souvenirs from its boutique.",
+        "evening": "Depending on your flight schedule, transfer to Manohar International Airport (MOPA) or Dabolim Airport (GOI) for your departure, carrying unforgettable memories of your Goan adventure.",
+        "places": [
+          "Adventureland Goa, Anjuna",
+          "Artjuna Cafe, Anjuna",
+          "Manohar International Airport (MOPA)",
+          "Dabolim Airport (GOI)"
+        ],
+        "meals": {
+          "breakfast": "Hotel (Included)",
+          "lunch": "Artjuna Cafe, Anjuna",
+          "dinner": "On your way to airport/at airport"
+        },
+        "transport": "Private SUV rental.",
+        "estimatedDailyCost": "₹8500"
+      }
+    ],
+    "hotels": [
+      {
+        "name": "The Fern Kadamba Hotel and Spa, Goa",
+        "area": "Kadamba Plateau, Old Goa",
+        "pricePerNight": "₹12500 (for 2 rooms/suite for 4 people during monsoon season)",
+        "totalCost": "₹87500 for 7 nights",
+        "rating": 4.3,
+        "category": "Mid-range/Upper Mid-range",
+        "amenities": [
+          "WiFi",
+          "AC",
+          "Swimming Pool",
+          "Fitness Center",
+          "Restaurant",
+          "Spa",
+          "Breakfast Included"
+        ],
+        "whyRecommended": "Strategically located away from the typical tourist crowds, offering easy access to both North and South Goa's adventure spots (Dudhsagar, Spice Plantations, wildlife sanctuaries, historical sites). It provides a comfortable, well-equipped base ideal for a group seeking adventure and relaxation, with realistic pricing for the monsoon season."
+      }
+    ],
+    "weather": {
+      "city": "Goa",
+      "country": "IN",
+      "temp": 31,
+      "feelsLike": 35,
+      "humidity": 58,
+      "description": "overcast clouds",
+      "icon": "https://openweathermap.org/img/wn/04d@2x.png",
+      "windSpeed": 5.67,
+      "visibility": 10,
+      "source": "OpenWeatherMap API - Live Data"
+    },
+    "attractions": [
+      "Bondla Wildlife Sanctuary",
+      "Tambdi Surla Temple & Waterfall",
+      "Tropical Spice Plantation",
+      "Sal River Kayaking",
+      "Cabo de Rama Fort",
+      "Arvalem Caves & Waterfall",
+      "Chapora Fort",
+      "Divar Island",
+      "Dr. Salim Ali Bird Sanctuary",
+      "Dudhsagar Waterfall",
+      "Adventureland Goa (Quad Biking)"
+    ],
+    "localFood": [
+      "Goan Fish Thali",
+      "Prawn Balchão",
+      "Chicken Xacuti",
+      "Pork Vindaloo",
+      "Bebinca (Goan Layer Cake)",
+      "Feni (Cashew/Coconut Spirit)"
+    ],
+    "packingTips": [
+      "Pack lightweight, quick-drying clothing suitable for humidity and potential rain.",
+      "Include a waterproof rain jacket or poncho and a sturdy umbrella.",
+      "Bring comfortable, waterproof walking shoes or sturdy sandals for treks and exploring.",
+      "Carry insect repellent, especially for jungle and riverside activities.",
+      "Protect electronics with waterproof bags or covers.",
+      "Swimsuit for hotel pool or any safe swimming spots (Dudhsagar base if permitted)."
+    ],
+    "importantNotes": [
+      "June marks the beginning of the monsoon in Goa; expect lush greenery, overflowing waterfalls, but also occasional heavy rainfall.",
+      "Some beach shacks may be closed, and sea-based water sports might be restricted due to rough sea conditions.",
+      "Dudhsagar Waterfall jeep safaris are generally operational in June but are subject to immediate closure based on heavy rainfall and water levels; always check conditions locally.",
+      "Embrace the 'green season' of Goa, focusing on its natural beauty, hinterland adventures, and unique local experiences, which are at their best during this time."
+    ],
+    "estimatedCost": "₹220000",
+    "createdAt": "2026-06-02T11:29:27.183Z"
+  },
+  {
+    "id": "dad8d7d0-4c1d-4a5a-802d-f48e52a2459a",
+    "userId": "7451d206-4508-475c-88a6-d623a3bbdbf0",
+    "startDate": "2026-06-02T00:00:00.000Z",
+    "endDate": "2026-06-09T00:00:00.000Z",
+    "destination": "paris",
+    "budget": 220000,
+    "days": 7,
+    "travelType": "Group",
+    "mood": "Adventure",
+    "season": "shoulder",
+    "budgetBreakdown": {
+      "hotels": "₹80000",
+      "food": "₹55000",
+      "transport": "₹30000",
+      "activities": "₹55000"
+    },
+    "itinerary": [
+      {
+        "day": 1,
+        "date": "2026-06-02",
+        "theme": "Arrival & French Quarter Urban Exploration",
+        "morning": "Arrival at Chennai International Airport (MAA), private transfer to Puducherry (approx. 3-hour drive). Check into The Richmond. Settle in and have a refreshing welcome drink.",
+        "afternoon": "Embark on an 'Adventure Photography Challenge' through the charming French Quarter (White Town). Explore intricate colonial architecture, vibrant street art, and hidden alleys, competing to capture the most unique shots.",
+        "evening": "An 'Exploratory Street Food Hunt' in Mission Street and Goubert Avenue. Sample diverse local delicacies from street vendors, treating your taste buds to an authentic culinary adventure, followed by a unique themed dinner at Villa Shanti.",
+        "places": [
+          "The Richmond",
+          "French Quarter (White Town)",
+          "Mission Street",
+          "Goubert Avenue",
+          "Villa Shanti"
+        ],
+        "meals": {
+          "breakfast": "Hotel Breakfast (Light)",
+          "lunch": "Cafe des Arts",
+          "dinner": "Villa Shanti"
+        },
+        "transport": "Private AC minivan transfer from Chennai, walking in French Quarter, local auto-rickshaw.",
+        "estimatedDailyCost": "₹18500"
+      },
+      {
+        "day": 2,
+        "date": "2026-06-03",
+        "theme": "Underwater & Backwater Thrills",
+        "morning": "Dive into an 'Underwater Scuba Diving Expedition' with Temple Adventures (near Serenity Beach). Explore artificial reefs and marine life, a true adventure for beginners or certified divers.",
+        "afternoon": "Undertake a 'Mangrove Kayaking Expedition' at Chunnambar Boat House. Paddle through serene backwaters, observing the unique ecosystem and enjoying the tranquility away from the crowds.",
+        "evening": "Experience a 'Rooftop Culinary Adventure' at Bay of Buddha (The Promenade). Enjoy pan-Asian cuisine with stunning views of the Bay of Bengal and the light-house, an adventurous gastronomic journey.",
+        "places": [
+          "Temple Adventures (Serenity Beach)",
+          "Chunnambar Boat House",
+          "Bay of Buddha (The Promenade)"
+        ],
+        "meals": {
+          "breakfast": "Coromandel Cafe",
+          "lunch": "Tanto Pizzeria (near Serenity Beach)",
+          "dinner": "Bay of Buddha"
+        },
+        "transport": "Pre-booked private taxi for transfers to activity spots.",
+        "estimatedDailyCost": "₹23000"
+      },
+      {
+        "day": 3,
+        "date": "2026-06-04",
+        "theme": "Surf & Spiritual Trails",
+        "morning": "Take on a 'Beginner Surfing Lesson' at Kallialay Surf School on Serenity Beach. Learn to ride the waves of the Bay of Bengal, an exhilarating and challenging adventure.",
+        "afternoon": "Explore the 'Auroville Forest Cycling Trails'. Rent bicycles and navigate through the lush green, winding paths of Auroville, discovering hidden gems and enjoying a refreshing, active journey.",
+        "evening": "Embark on a unique 'Night Kayaking under the Stars' experience in the quiet waters near Theevu. Witness the ethereal glow of bioluminescence (seasonal) or enjoy stargazing from your kayak, a truly magical adventure.",
+        "places": [
+          "Kallialay Surf School (Serenity Beach)",
+          "Auroville",
+          "Theevu Backwaters"
+        ],
+        "meals": {
+          "breakfast": "The Bread & Chocolate (Auroville)",
+          "lunch": "Right Path Cafe (Auroville)",
+          "dinner": "Crepe in Touch"
+        },
+        "transport": "Private taxi to Auroville and Serenity Beach, bicycle rental in Auroville.",
+        "estimatedDailyCost": "₹17500"
+      },
+      {
+        "day": 4,
+        "date": "2026-06-05",
+        "theme": "Paddle, Art & Mystical Pathways",
+        "morning": "Embark on a 'Sunrise Stand-Up Paddleboarding (SUP) Safari' along the quiet stretches of Serenity Beach. Experience the calm sea and beautiful sunrise from a unique vantage point.",
+        "afternoon": "Engage in an 'Ancestral Art & Craft Immersion' workshop at Sita Cultural Center. Learn traditional Indian pottery or textile art, an adventure in creative expression and cultural understanding.",
+        "evening": "Undertake a thrilling 'Ghost Walk of Heritage Buildings' in the French Quarter. A guided tour recounting local legends and spooky tales associated with Puducherry's old colonial structures, adding a layer of mystery and adventure to your evening.",
+        "places": [
+          "Serenity Beach",
+          "Sita Cultural Center",
+          "French Quarter (Heritage Buildings)"
+        ],
+        "meals": {
+          "breakfast": "Baker Street",
+          "lunch": "La Maison Rose",
+          "dinner": "Gratitude Heritage"
+        },
+        "transport": "Local auto-rickshaws, walking.",
+        "estimatedDailyCost": "₹16000"
+      },
+      {
+        "day": 5,
+        "date": "2026-06-06",
+        "theme": "Rural Discovery & Mind Games",
+        "morning": "Go on a 'Rural Pondy Backroads Cycling Exploration'. Rent bicycles or scooters and venture into the less-traveled villages surrounding Puducherry, discovering local life, lush paddy fields, and hidden temples.",
+        "afternoon": "Participate in a 'Botanical Garden Flora Hunt Challenge'. Explore the diverse species of the Puducherry Botanical Garden with a scavenger hunt checklist, identifying unique plants and trees, turning a leisurely stroll into an active quest.",
+        "evening": "Engage in an 'Escape Room Thrill' at The Lost Maze Escape Room. Work as a team to solve puzzles and escape within a time limit, a stimulating adventure for the mind.",
+        "places": [
+          "Puducherry Villages (e.g., Kandanur)",
+          "Puducherry Botanical Garden",
+          "The Lost Maze Escape Room"
+        ],
+        "meals": {
+          "breakfast": "Zuka Cafe",
+          "lunch": "Dishes from a local dhaba in a village",
+          "dinner": "Storyteller's Bar (Hotel Surguru)"
+        },
+        "transport": "Scooter/bicycle rental, local auto-rickshaw.",
+        "estimatedDailyCost": "₹14500"
+      },
+      {
+        "day": 6,
+        "date": "2026-06-07",
+        "theme": "Fortress Hike & Nature Escape",
+        "morning": "Embark on a 'Gingee Fort Ruins Expedition'. Take a day trip to Gingee Fort (approx. 1.5-2 hours drive) and hike to the top of its three majestic hillocks (Rajagiri, Krishnagiri, Chandrayanadurg), a rewarding historical and physical adventure with panoramic views.",
+        "afternoon": "Relax and explore the 'Oussudu Lake Birdwatching & Kayak Paddle'. Post-fortress adventure, enjoy a calm paddle or observe migratory birds at Oussudu Lake, a serene nature escape.",
+        "evening": "Savor a 'Themed Farewell Dinner' at Satsanga. Enjoy exquisite French and Italian cuisine in a charming garden setting, reflecting on the adventurous week.",
+        "places": [
+          "Gingee Fort",
+          "Oussudu Lake (Veerampattinam)",
+          "Satsanga"
+        ],
+        "meals": {
+          "breakfast": "Hotel Breakfast",
+          "lunch": "Local restaurant near Gingee or packed lunch",
+          "dinner": "Satsanga"
+        },
+        "transport": "Private AC minivan for day trip to Gingee Fort and Oussudu Lake.",
+        "estimatedDailyCost": "₹21000"
+      },
+      {
+        "day": 7,
+        "date": "2026-06-08",
+        "theme": "Mindful Mornings & Departure",
+        "morning": "Participate in a 'Beachside Yoga & Mindful Movement' session at Promenade Beach during sunrise. A calming yet invigorating start to the day, connecting with the natural elements.",
+        "afternoon": "Engage in an 'Artisan Workshop Visit & Souvenir Quest' in Heritage Town. Visit local workshops like Janaki for handmade paper or Hidesign for leather goods, finding unique souvenirs directly from artisans.",
+        "evening": "Final private transfer to Chennai International Airport (MAA) for departure, concluding your adventurous journey through Puducherry.",
+        "places": [
+          "Promenade Beach",
+          "Janaki (handmade paper)",
+          "Hidesign (Flagship Store)",
+          "Chennai International Airport"
+        ],
+        "meals": {
+          "breakfast": "Indian Coffee House",
+          "lunch": "Suruguru (for South Indian specialties)",
+          "dinner": "Packed meal for airport"
+        },
+        "transport": "Walking, private AC minivan to Chennai Airport.",
+        "estimatedDailyCost": "₹9500"
+      }
+    ],
+    "hotels": [
+      {
+        "name": "The Richmond, Pondicherry",
+        "area": "White Town (French Quarter)",
+        "pricePerNight": "₹6500 (average per room for 2 people, off-peak)",
+        "totalCost": "₹78000 (for 2 rooms for 6 nights for a group of 4)",
+        "rating": 4.1,
+        "category": "Mid-range",
+        "amenities": [
+          "WiFi",
+          "AC",
+          "Restaurant",
+          "Heritage Charm"
+        ],
+        "whyRecommended": "Centrally located in the French Quarter, providing easy access to key attractions. Its heritage charm and comfortable rooms make it ideal for a group seeking an authentic Puducherry experience, and offers good value during off-peak season."
+      }
+    ],
+    "weather": {},
+    "attractions": [
+      "French Quarter (White Town)",
+      "Serenity Beach",
+      "Auroville",
+      "Gingee Fort",
+      "Chunnambar Boat House",
+      "Promenade Beach",
+      "Puducherry Botanical Garden",
+      "Oussudu Lake"
+    ],
+    "localFood": [
+      "Crepes (various fillings)",
+      "French Baguettes & Pastries",
+      "South Indian Thali (especially seafood)",
+      "Puducherry Style Biryani",
+      "Filter Coffee"
+    ],
+    "packingTips": [
+      "Lightweight, breathable clothing (cotton, linen) due to heat and humidity.",
+      "Rain gear (light rain jacket or umbrella) as June is monsoon season.",
+      "Sunscreen, sunglasses, and a wide-brimmed hat for protection.",
+      "Comfortable walking shoes, flip-flops, and water-friendly sandals for activities.",
+      "Mosquito repellent is essential, especially for evenings and outdoor adventures.",
+      "Swimwear for beach and water activities."
+    ],
+    "importantNotes": [
+      "The itinerary is designed for a group of 4 people, and costs are estimated accordingly.",
+      "June experiences high humidity and the onset of monsoon; plan outdoor activities for early mornings or late afternoons.",
+      "Book water sports and specialized activities (scuba, surfing, night kayaking) well in advance, especially for a group.",
+      "Stay hydrated by drinking plenty of water and tender coconut water.",
+      "Respect local customs and dress modestly when visiting temples or spiritual centers.",
+      "Traffic can be heavy during peak hours; factor in travel time between locations."
+    ],
+    "estimatedCost": "₹220000",
+    "createdAt": "2026-06-02T11:31:42.557Z"
+  },
+  {
+    "id": "28cc322c-104b-4fc0-915a-99ca0641a4b2",
+    "userId": "7451d206-4508-475c-88a6-d623a3bbdbf0",
+    "startDate": "2026-06-02T00:00:00.000Z",
+    "endDate": "2026-06-09T00:00:00.000Z",
+    "destination": "chennai",
+    "budget": 220000,
+    "days": 7,
+    "travelType": "Group",
+    "mood": "Adventure",
+    "season": "shoulder",
+    "budgetBreakdown": {
+      "hotels": "₹60000",
+      "food": "₹65000",
+      "transport": "₹38000",
+      "activities": "₹25000",
+      "miscellaneous": "₹32000"
+    },
+    "itinerary": [
+      {
+        "day": 1,
+        "date": "2026-06-02",
+        "theme": "Coastal Beginnings & Urban Cultural Hunt",
+        "morning": "Arrive at Chennai International Airport (MAA), transfer to your hotel. Check-in, freshen up, and enjoy a light breakfast at the hotel's restaurant.",
+        "afternoon": "Embark on an adventurous exploration of **Marina Beach**. Instead of a casual stroll, engage in a unique guided walk towards the **Madras Lighthouse** for panoramic city and coastal views. Then, seek out local fishermen near the **Ice House** area to observe their traditional net-pulling techniques and learn about their livelihood.",
+        "evening": "A deep dive into **Mylapore's** vibrant cultural heart. Begin with an immersive visit to **Kapaleeshwarar Temple**, focusing on its intricate Dravidian architecture and hidden stories. Afterward, venture into the bustling **Mylapore Market** for a street food adventure, trying local snacks like 'sundal' and 'bajji', and hunting for unique traditional crafts.",
+        "places": [
+          "Marina Beach",
+          "Madras Lighthouse",
+          "Kapaleeshwarar Temple",
+          "Mylapore Market"
+        ],
+        "meals": {
+          "breakfast": "Hotel restaurant",
+          "lunch": "Annalakshmi (for a serene, authentic South Indian thali experience)",
+          "dinner": "Mylai Karpagambal Mess (for traditional, hearty local fare)"
+        },
+        "transport": "Airport taxi for arrival; pre-booked AC cab/van for the day's tours.",
+        "estimatedDailyCost": "₹4500"
+      },
+      {
+        "day": 2,
+        "date": "2026-06-03",
+        "theme": "Aquatic Thrills & Fishing Village Immersion",
+        "morning": "An early start for an exhilarating session at **Kovalam (Covelong) Beach**. Participate in beginner-friendly surfing lessons or try stand-up paddleboarding with the **Covelong Point Social Surf School**. This offers a unique physical challenge and an active way to experience Chennai's coastline.",
+        "afternoon": "Explore the vibrant **Covelong Fishing Village**. Interact with local fisherfolk, learn about their daily routines, and witness the bustling fish auction. Enjoy a fresh seafood lunch at a rustic beachside shack, with the day's catch prepared to your liking.",
+        "evening": "Return to Chennai. Wind down with a visit to a local microbrewery like **Chennai Beer Factory** in Phoenix Marketcity for some craft brews and eclectic pub grub, sharing stories of your aquatic adventures.",
+        "places": [
+          "Kovalam (Covelong) Beach",
+          "Covelong Point Social Surf School",
+          "Covelong Fishing Village",
+          "Chennai Beer Factory"
+        ],
+        "meals": {
+          "breakfast": "Hotel restaurant",
+          "lunch": "Beachside shack at Covelong (fresh seafood)",
+          "dinner": "Chennai Beer Factory"
+        },
+        "transport": "Pre-booked AC van for the full day trip to Covelong.",
+        "estimatedDailyCost": "₹7000"
+      },
+      {
+        "day": 3,
+        "date": "2026-06-04",
+        "theme": "Urban Wildlife & Colonial History Unveiled",
+        "morning": "Embark on an urban wildlife adventure at **Guindy National Park**, the only national park located within a city. Walk through its green trails to spot Blackbucks, spotted deer, and diverse birdlife. Follow this with an educational visit to the adjacent **Guindy Snake Park** to observe various reptiles up close.",
+        "afternoon": "Delve into Chennai's colonial past with an exploratory walk through **Fort St. George**. Visit the **Fort Museum** to uncover artifacts from the British Raj and explore **St. Mary's Church**, the oldest Anglican church in India, for a glimpse into history.",
+        "evening": "An authentic Chettinad culinary adventure at **Anjappar Chettinad Restaurant**. Indulge in spicy, aromatic Chettinad cuisine, known for its unique blend of spices, offering a true challenge and delight for the palate.",
+        "places": [
+          "Guindy National Park",
+          "Guindy Snake Park",
+          "Fort St. George",
+          "Fort Museum",
+          "St. Mary's Church",
+          "Anjappar Chettinad Restaurant"
+        ],
+        "meals": {
+          "breakfast": "Hotel restaurant",
+          "lunch": "Amma Naana (for a simple yet delicious South Indian vegetarian lunch)",
+          "dinner": "Anjappar Chettinad Restaurant"
+        },
+        "transport": "Pre-booked AC cab/van for the day.",
+        "estimatedDailyCost": "₹4800"
+      },
+      {
+        "day": 4,
+        "date": "2026-06-05",
+        "theme": "Artisan Villages & Coastal Charm",
+        "morning": "A cultural adventure to **DakshinaChitra**, an open-air museum dedicated to South Indian heritage. Explore traditional houses from various states, watch artisans at work, and actively participate in a pottery or weaving workshop. This hands-on experience offers deep cultural immersion.",
+        "afternoon": "Visit **Cholamandal Artists' Village**, India's largest artists' commune. Wander through studios, interact with resident artists, and gain insight into contemporary South Indian art and sculpture, offering a unique, offbeat artistic exploration.",
+        "evening": "Relax and unwind at **Elliot's Beach (Besant Nagar Beach)**. Enjoy the breezy atmosphere, try local snacks from beachside vendors, and enjoy a coffee at a quirky cafe like 'The Fat Boy's Cafe' or 'Murugan Idli Shop' for a different vibe.",
+        "places": [
+          "DakshinaChitra",
+          "Cholamandal Artists' Village",
+          "Elliot's Beach",
+          "The Fat Boy's Cafe"
+        ],
+        "meals": {
+          "breakfast": "Hotel restaurant",
+          "lunch": "The Farm (farm-to-table organic experience near DakshinaChitra)",
+          "dinner": "Murugan Idli Shop (for iconic idlis and dosas)"
+        },
+        "transport": "Pre-booked AC cab/van for the full day trip.",
+        "estimatedDailyCost": "₹6000"
+      },
+      {
+        "day": 5,
+        "date": "2026-06-06",
+        "theme": "Ancient Sculptures & Backwater Boating",
+        "morning": "An early departure for a full-day historical adventure to **Mahabalipuram (Mamallapuram)**, a UNESCO World Heritage Site. Explore the intricately carved **Shore Temple**, the unique monolithic **Five Rathas**, the massive **Krishna's Butter Ball**, and the intricate bas-relief of **Arjuna's Penance**. This involves extensive walking and climbing, a true historical expedition.",
+        "afternoon": "Experience the tranquil backwaters of **Muttukadu Boat House**. Engage in a challenging rowing or paddle-boating session, or enjoy a thrilling motorboat ride amidst the scenic mangroves. This offers a refreshing water-based activity and a change of pace.",
+        "evening": "Enjoy a scenic drive back along the **East Coast Road (ECR)**. Indulge in a special seafood dinner at a renowned ECR restaurant like 'Fisherman's Cove' by Taj, or 'Sea Breeze' for a high-end coastal culinary experience.",
+        "places": [
+          "Mahabalipuram (Shore Temple, Five Rathas, Krishna's Butter Ball, Arjuna's Penance)",
+          "Muttukadu Boat House",
+          "East Coast Road (ECR)",
+          "Fisherman's Cove"
+        ],
+        "meals": {
+          "breakfast": "Hotel restaurant",
+          "lunch": "Gecko Cafe (Mahabalipuram for an eclectic menu)",
+          "dinner": "Fisherman's Cove (luxury seafood dining)"
+        },
+        "transport": "Pre-booked AC van for the full day trip to Mahabalipuram and Muttukadu.",
+        "estimatedDailyCost": "₹9000"
+      },
+      {
+        "day": 6,
+        "date": "2026-06-07",
+        "theme": "Botanical Wonders & Urban Heights",
+        "morning": "Begin with an immersive botanical exploration at **Semmozhi Poonga**, Chennai's first botanical garden. Discover diverse plant species, themed gardens, and walking trails. It's an urban green adventure, seeking out unique flora amidst the city bustle.",
+        "afternoon": "A journey through time and culture at the **Government Museum Chennai**. Focus on its unique **Bronze Gallery** and the **Children's Museum**, offering a different perspective on Indian history and art, requiring active discovery and exploration.",
+        "evening": "Ascend **St. Thomas Mount** for breathtaking panoramic views of Chennai, especially beautiful at sunset. This offers a historical climb and a unique vantage point. Afterwards, explore the bustling **T. Nagar** area for a 'shopping hunt' for local sarees or jewellery, followed by dinner.",
+        "places": [
+          "Semmozhi Poonga",
+          "Government Museum Chennai",
+          "St. Thomas Mount",
+          "T. Nagar"
+        ],
+        "meals": {
+          "breakfast": "Hotel restaurant",
+          "lunch": "Saravana Bhavan (for classic South Indian vegetarian cuisine)",
+          "dinner": "Coal Barbecues (interactive grill-your-own experience)"
+        },
+        "transport": "Pre-booked AC cab/van for the day.",
+        "estimatedDailyCost": "₹5500"
+      },
+      {
+        "day": 7,
+        "date": "2026-06-08",
+        "theme": "Culinary Immersion & Historical Reflection",
+        "morning": "Immerse in a unique culinary workshop: a **Filter Coffee Making Masterclass** at a specialized cafe like **Kumbakonam Degree Coffee** or **Madras Coffee House**, followed by a hands-on session on making a simple traditional South Indian snack. This is a flavorful adventure into local traditions.",
+        "afternoon": "Explore the artistic lanes of **Santhome** and the magnificent **San Thome Basilica**, a unique historical and architectural site built over the tomb of St. Thomas. Reflect in its peaceful ambiance and explore the crypt.",
+        "evening": "A grand farewell dinner at **Avartana** (ITC Grand Chola) for a modern, adventurous take on South Indian cuisine, offering a unique fine-dining experience. Alternatively, for a more relaxed but equally unique meal, try a traditional 'Virundhu' style thali at 'Kalyana Bhavan'.",
+        "places": [
+          "Kumbakonam Degree Coffee",
+          "San Thome Basilica",
+          "Avartana (ITC Grand Chola)"
+        ],
+        "meals": {
+          "breakfast": "Hotel restaurant",
+          "lunch": "Leo Coffee (light snacks and coffee post workshop)",
+          "dinner": "Avartana (fine dining)"
+        },
+        "transport": "Pre-booked AC cab/van for the day.",
+        "estimatedDailyCost": "₹7200"
+      }
+    ],
+    "hotels": [
+      {
+        "name": "The Raintree, St. Mary's Road",
+        "area": "Alwarpet, Central Chennai",
+        "pricePerNight": "₹8570 (for two deluxe rooms or a spacious suite for a group of 4, including taxes)",
+        "totalCost": "₹60000 for 7 nights",
+        "rating": 4.5,
+        "category": "Luxury",
+        "amenities": [
+          "WiFi",
+          "AC",
+          "Swimming Pool",
+          "Fitness Center",
+          "Multiple Restaurants",
+          "Breakfast Included",
+          "Concierge Service"
+        ],
+        "whyRecommended": "Centrally located with excellent connectivity to major attractions, The Raintree offers comfortable luxury suitable for a group. Its eco-friendly approach and high service standards provide a pleasant stay. The price is realistic for the shoulder season for two rooms/a large suite, offering good value and convenience for exploring Chennai."
+      }
+    ],
+    "weather": {
+      "city": "Chennai",
+      "country": "IN",
+      "temp": 34,
+      "feelsLike": 41,
+      "humidity": 72,
+      "description": "scattered clouds",
+      "icon": "https://openweathermap.org/img/wn/03d@2x.png",
+      "windSpeed": 7.72,
+      "visibility": 6,
+      "source": "OpenWeatherMap API - Live Data"
+    },
+    "attractions": [
+      "Marina Beach & Madras Lighthouse",
+      "Mahabalipuram (Mamallapuram) UNESCO World Heritage Site",
+      "Kapaleeshwarar Temple & Mylapore Market",
+      "DakshinaChitra",
+      "Fort St. George & Fort Museum",
+      "Guindy National Park & Snake Park",
+      "San Thome Basilica"
+    ],
+    "localFood": [
+      "Filter Coffee",
+      "Idli & Dosa with Sambar & Chutney",
+      "Chettinad Chicken/Veg Curry",
+      "Fresh Seafood platter (especially at Covelong/ECR)",
+      "Parotta & Salna",
+      "Jigarthanda",
+      "Sundal",
+      "Burma Atho (Burmese street food)"
+    ],
+    "packingTips": [
+      "Lightweight, breathable cotton clothing to combat heat and humidity.",
+      "Sunscreen, sunglasses, and a wide-brimmed hat/scarf for sun protection.",
+      "Comfortable walking shoes/sandals for extensive exploration and temple visits.",
+      "Reusable water bottle to stay hydrated (Chennai can be very hot).",
+      "Light rain jacket or umbrella for potential monsoon showers in June.",
+      "Modest clothing for temple visits (shoulders and knees covered)."
+    ],
+    "importantNotes": [
+      "June is hot and humid. Plan outdoor activities for early mornings or late afternoons/evenings. Stay well-hydrated.",
+      "Dress modestly when visiting temples and religious sites (shoulders and knees must be covered).",
+      "Bargaining is common and expected in local markets; engage respectfully.",
+      "Chennai traffic can be heavy; factor in travel time, especially for day trips and during peak hours.",
+      "Carry insect repellent for outdoor activities, especially near green areas or water bodies.",
+      "Embrace the local culture and cuisine; be open to new experiences for a true adventure. Local guides can enhance your experience."
+    ],
+    "estimatedCost": "₹220000",
+    "createdAt": "2026-06-02T11:32:51.144Z"
+  },
+  {
+    "id": "63e00796-8951-4b49-ab2c-f08c26c9b3c7",
+    "userId": "7451d206-4508-475c-88a6-d623a3bbdbf0",
+    "startDate": "2026-06-02T00:00:00.000Z",
+    "endDate": "2026-06-03T00:00:00.000Z",
+    "destination": "Thanjavur",
+    "budget": 30000,
+    "days": 1,
+    "travelType": "Solo",
+    "mood": "Cultural",
+    "season": "off-peak",
+    "budgetBreakdown": {
+      "hotels": "₹7500",
+      "food": "₹2500",
+      "transport": "₹3000",
+      "activities": "₹1000"
+    },
+    "itinerary": [
+      {
+        "day": 1,
+        "date": "2026-06-02",
+        "theme": "Chola Grandeur and Artistic Legacy",
+        "morning": "Begin your cultural immersion at 7:00 AM with an early visit to the majestic **Brihadeeswarar Temple (Big Temple)**. As a UNESCO World Heritage site and a masterpiece of Chola architecture, explore its vast courtyards, the imposing Vimana, the monolithic Nandi statue, and intricate carvings. Spend ample time appreciating the historical and religious significance, observing the detailed frescoes and inscriptions, and soaking in the spiritual ambiance before the crowds and heat intensify.",
+        "afternoon": "After a traditional South Indian lunch, delve into the royal history and artistic heritage of Thanjavur starting at 2:00 PM. Explore the sprawling **Thanjavur Royal Palace complex**, specifically focusing on the **Saraswathi Mahal Library Museum** to admire ancient palm-leaf manuscripts and rare books, the **Durbar Hall** with its regal artifacts, and the **Thanjavur Art Gallery** which houses an exquisite collection of Chola bronze sculptures and stone carvings. This multi-faceted complex offers a deep dive into the region's royal and artistic past.",
+        "evening": "Conclude your day with an exploration of Thanjavur's unique local art forms. From 5:30 PM, visit a reputable **Thanjavur Painting workshop or gallery** (e.g., in the vicinity of the Palace) to observe skilled artisans at work, witnessing the intricate process of creating these gold-foil adorned masterpieces. Afterwards, for a serene spiritual experience, proceed to the smaller but significant **Thanjai Periya Nayaki Amman Temple**, dedicated to the consort of Lord Shiva, located near the Big Temple. Enjoy a peaceful evening darshan away from the major crowds, reflecting on the day's cultural journey.",
+        "places": [
+          "Brihadeeswarar Temple",
+          "Thanjavur Royal Palace",
+          "Saraswathi Mahal Library Museum",
+          "Thanjavur Art Gallery",
+          "Durbar Hall",
+          "Thanjavur Painting workshop/gallery",
+          "Thanjai Periya Nayaki Amman Temple"
+        ],
+        "meals": {
+          "breakfast": "Hotel restaurant (e.g., Sangam Hotel's Multi-Cuisine Restaurant)",
+          "lunch": "Vasantha Bhavan (for authentic and hygienic South Indian vegetarian fare)",
+          "dinner": "Sree Aariya Bhavan (for diverse and delicious local South Indian cuisine)"
+        },
+        "transport": "Private AC Car with driver for the entire day, providing comfort and efficiency for navigating between sites in the summer heat.",
+        "estimatedDailyCost": "₹14000"
+      }
+    ],
+    "hotels": [
+      {
+        "name": "Sangam Hotel, Thanjavur",
+        "area": "Trichy Road",
+        "pricePerNight": "₹7500",
+        "totalCost": "₹7500 for 1 nights",
+        "rating": 4.2,
+        "category": "Mid-range/Luxury",
+        "amenities": [
+          "WiFi",
+          "AC",
+          "Swimming Pool",
+          "Multi-cuisine Restaurant",
+          "Complimentary Breakfast",
+          "Fitness Center"
+        ],
+        "whyRecommended": "The Sangam Hotel offers a comfortable and luxurious retreat after a day of exploration. Its excellent service, modern amenities, and central location on Trichy Road make it convenient for accessing all major attractions. The included breakfast and swimming pool are added advantages for a solo cultural traveler seeking relaxation amidst the summer heat."
+      }
+    ],
+    "weather": {
+      "city": "Thanjavur",
+      "country": "IN",
+      "temp": 33,
+      "feelsLike": 40,
+      "humidity": 72,
+      "description": "few clouds",
+      "icon": "https://openweathermap.org/img/wn/02d@2x.png",
+      "windSpeed": 1.34,
+      "visibility": 10,
+      "source": "OpenWeatherMap API - Live Data"
+    },
+    "attractions": [
+      "Brihadeeswarar Temple",
+      "Thanjavur Royal Palace",
+      "Saraswathi Mahal Library Museum",
+      "Thanjavur Art Gallery",
+      "Thanjavur Painting Workshops"
+    ],
+    "localFood": [
+      "Thanjavur Kozhambu (a unique tamarind-based curry)",
+      "Paal Poli (sweet milk-soaked fried bread)",
+      "Filter Coffee (traditional South Indian coffee)"
+    ],
+    "packingTips": [
+      "Pack light, breathable cotton clothing to combat the heat and humidity.",
+      "Carry a wide-brimmed hat, sunglasses, and high-SPF sunscreen to protect from the strong sun.",
+      "Bring comfortable walking sandals or shoes that are easy to remove, as temples require footwear removal."
+    ],
+    "importantNotes": [
+      "Stay hydrated by drinking plenty of water and tender coconut water throughout the day, especially during June.",
+      "Dress modestly when visiting temples and religious sites, covering shoulders and knees out of respect for local customs."
+    ],
+    "estimatedCost": "₹14000",
+    "createdAt": "2026-06-02T11:44:03.473Z"
+  },
+  {
+    "id": "563f3813-c64a-4148-b5b1-5a7d9a785c00",
+    "userId": "7451d206-4508-475c-88a6-d623a3bbdbf0",
+    "startDate": "2026-06-02T00:00:00.000Z",
+    "endDate": "2026-06-03T00:00:00.000Z",
+    "destination": "Goa",
+    "budget": 30000,
+    "days": 1,
+    "travelType": "Solo",
+    "mood": "Adventure",
+    "season": "off-peak",
+    "budgetBreakdown": {
+      "hotels": "₹11000",
+      "food": "₹3500",
+      "transport": "₹3000",
+      "activities": "₹10500"
+    },
+    "itinerary": [
+      {
+        "day": 1,
+        "date": "2026-06-02",
+        "theme": "Monsoon Jungle Trek, Backwater Exploration & Culinary Heritage",
+        "morning": "Kick off the day with an exhilarating guided trek to Tambdi Surla Waterfall, nestled deep within the Bhagwan Mahavir Wildlife Sanctuary. This adventure involves navigating challenging, muddy trails through dense, rain-kissed Western Ghats jungle. The reward is a powerful, monsoon-fed waterfall, offering a refreshing and wild experience. After the trek, visit the ancient Tambdi Surla Mahadev Temple, Goa's oldest Shiva temple, providing a glimpse into Goa's rich history amidst the wilderness. The trek is physically demanding and immersive, perfect for an adventure seeker.",
+        "afternoon": "Transition to a different kind of water adventure with a serene yet thrilling kayaking expedition through the tranquil mangrove-lined backwaters of the Sal River near Assolna. Paddle through narrow, sheltered waterways, observing local birdlife, traditional fishing practices, and the vibrant monsoon greenery. This offers a unique, offbeat perspective of Goa's delicate ecosystem. Conclude with an authentic Goan seafood lunch at a local eatery.",
+        "evening": "Embark on a unique cultural and culinary adventure. Begin with a visit to Fazenda da Esperanca, a traditional Feni (local spirit) distillery in Loutolim. Learn about the age-old process of crafting cashew and coconut Feni, followed by a guided tasting session of these distinct Goan spirits. Conclude your adventurous day with a grand, authentic Goan dinner at the legendary Martin's Corner in Betalbatim, renowned for its fresh seafood and traditional Goan delicacies, offering a true taste of local hospitality.",
+        "places": [
+          "Tambdi Surla Waterfall",
+          "Tambdi Surla Mahadev Temple",
+          "Bhagwan Mahavir Wildlife Sanctuary",
+          "Sal River (Assolna)",
+          "Fazenda da Esperanca (Loutolim)",
+          "Martin's Corner (Betalbatim)"
+        ],
+        "meals": {
+          "breakfast": "At Alila Diwa Goa (included)",
+          "lunch": "Fernandes Resto Bar, Cavelossim",
+          "dinner": "Martin's Corner, Betalbatim"
+        },
+        "transport": "Self-drive car rental for the day (e.g., Maruti Swift or Hyundai i10) for maximum flexibility and to navigate varied terrains, offering an adventurous way to explore. Fuel costs are included in transport budget.",
+        "estimatedDailyCost": "₹28000"
+      }
+    ],
+    "hotels": [
+      {
+        "name": "Alila Diwa Goa",
+        "area": "Majorda, South Goa",
+        "pricePerNight": "₹11000",
+        "totalCost": "₹11000 for 1 nights",
+        "rating": 4.6,
+        "category": "Luxury",
+        "amenities": [
+          "WiFi",
+          "AC",
+          "Breakfast Included",
+          "Swimming Pool",
+          "Spa",
+          "Fitness Center",
+          "Multiple Restaurants"
+        ],
+        "whyRecommended": "Offers a perfect blend of luxury and tranquility to unwind after a day of adventure. Its location in South Goa provides convenient access to the chosen itinerary's activities, and the serene environment ensures a relaxing solo stay, even during the monsoon season when prices are more favorable."
+      }
+    ],
+    "weather": {
+      "city": "Goa",
+      "country": "IN",
+      "temp": 26,
+      "feelsLike": 27,
+      "humidity": 90,
+      "description": "overcast clouds",
+      "icon": "https://openweathermap.org/img/wn/04n@2x.png",
+      "windSpeed": 1.05,
+      "visibility": 10,
+      "source": "OpenWeatherMap API - Live Data"
+    },
+    "attractions": [
+      "Tambdi Surla Waterfall",
+      "Tambdi Surla Mahadev Temple",
+      "Sal River (for kayaking/backwater tours)",
+      "Fazenda da Esperanca (Feni Distillery)",
+      "Bhagwan Mahavir Wildlife Sanctuary",
+      "Martin's Corner (iconic Goan dining)"
+    ],
+    "localFood": [
+      "Goan Fish Thali (featuring local fish curry, fried fish, rice)",
+      "Pork Vindaloo (a spicy, tangy Goan pork curry)",
+      "Bebinca (traditional Goan multi-layered dessert)"
+    ],
+    "packingTips": [
+      "Lightweight, quick-drying clothing suitable for humidity and potential rain.",
+      "Waterproof jacket or poncho and a compact umbrella.",
+      "Waterproof trekking shoes with good grip for muddy trails.",
+      "Insect repellent, especially for jungle treks and evenings.",
+      "Dry bag for electronics, wallet, and other valuables.",
+      "Portable power bank for your devices."
+    ],
+    "importantNotes": [
+      "June marks the beginning of the monsoon season in Goa; expect intermittent heavy rainfall and high humidity. While some beach water sports might be closed, this is an excellent time for lush greenery, gushing waterfalls, and fewer crowds.",
+      "Roads can be slippery and some low-lying areas might experience water logging. Exercise caution while driving.",
+      "Always check with local guides or tour operators for the latest safety conditions before embarking on treks or water activities during the monsoon.",
+      "Embrace the 'Green Goa' experience as the landscape transforms into a vibrant, verdant paradise."
+    ],
+    "estimatedCost": "₹28000",
+    "createdAt": "2026-06-02T16:16:32.192Z"
+  }
+]
